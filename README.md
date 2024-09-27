@@ -16,4 +16,6 @@ Verschiebt Änderungen aus dem Arbeitsverzeichnis in die Staging-Umgebung.
 
 ### git commit
 
+Committet den Snapshot aus der Staging-Umgebung in den Projektverlauf.
+
 ...
