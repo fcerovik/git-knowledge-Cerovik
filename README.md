@@ -21,3 +21,7 @@ Committet den Snapshot aus der Staging-Umgebung in den Projektverlauf.
 ### git config
 
 Eine bequeme Methode zur Einstellung von Konfigurationsoptionen für deine Git-Installation.
+
+### git log
+
+Damit kannst du ältere Überarbeitungen eines Projekts ansehen.
