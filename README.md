@@ -12,6 +12,8 @@ Gibt den Status des Arbeitsverzeichnisses zurück.
 
 ### git add
 
+Verschiebt Änderungen aus dem Arbeitsverzeichnis in die Staging-Umgebung.
+
 ### git commit
 
 ...
